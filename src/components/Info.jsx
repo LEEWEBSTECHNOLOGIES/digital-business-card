@@ -19,7 +19,7 @@ const Info = () => {
             target="_blank"
             rel="noreferrer"
           >
-            leewebstechnologies
+            leewebs
           </a>
         </div>
         <div className="btn">
